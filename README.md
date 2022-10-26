@@ -10,3 +10,4 @@ This clone is made using HTML and Tailwind CSS.
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>
 
 # Screenshot
+<img src="https://raw.githubusercontent.com/ishani-1255/Facebook-Clone/main/Screenshot%202022-10-26%20at%207.50.02%20PM.png" alt="FaceBook-Clone Project Screenshot"/>
